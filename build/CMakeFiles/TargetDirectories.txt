@@ -1,0 +1,5 @@
+/home/josh/PA1/build/CMakeFiles/PA1.dir
+/home/josh/PA1/build/CMakeFiles/package.dir
+/home/josh/PA1/build/CMakeFiles/package_source.dir
+/home/josh/PA1/build/CMakeFiles/edit_cache.dir
+/home/josh/PA1/build/CMakeFiles/rebuild_cache.dir
